@@ -1,5 +1,5 @@
 def insertion_sort(arr, n):
-    for i in range(n):
+    for i in range(1, n):
         j=i 
         while(j>0 and arr[j-1]>arr[j]):
             arr[j-1],arr[j] = arr[j],arr[j-1]
