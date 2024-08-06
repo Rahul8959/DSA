@@ -33,8 +33,8 @@
 def find_missing(a,n):
     xor1= 0
     xor2= 0
-
-    for i in range(n-1):
+    l = len(a)
+    for i in range(l-1):
         xor2 = xor2^a[i]
         xor1 = xor1^(i+1)
     
@@ -45,4 +45,3 @@ n = int(input("Enter the Number of range: "))
 x = input("Enter: ")
 a = [int(x) for x in x.split()]
 print("Missing Value is: ", find_missing(a,n))
-print(4^5)
