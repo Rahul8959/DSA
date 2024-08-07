@@ -44,4 +44,4 @@ def find_missing(a,n):
 n = int(input("Enter the Number of range: "))
 x = input("Enter: ")
 a = [int(x) for x in x.split()]
-print("Missing Value is: ", find_missing(a,n))
+print("Missing Value is: ", find_missing(a,n+1))
