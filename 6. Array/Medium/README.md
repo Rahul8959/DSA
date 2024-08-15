@@ -40,7 +40,7 @@ The initial array 'arr' is [2, 2, 2, 2, 0, 0, 1, 0].
 After sorting the array in increasing order, 'arr' is equal to:
 [0, 0, 0, 1, 2, 2, 2, 2]
 
-## 3. Majority Element [LINK](https://www.naukri.com/code360/problems/majority-element_6783241?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems)
+## 3. Majority Element: [LINK](https://www.naukri.com/code360/problems/majority-element_6783241?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems)
 You are given an array 'a' of 'n' integers.
 
 A majority element in the array ‘a’ is an element that appears more than 'n' / 2 times.
@@ -58,7 +58,7 @@ Output: 1
 Explanation: The frequency of ‘1’ is 5, which is greater than 9 / 2.
 Hence ‘1’ is the majority element.
 
-## 4. Maximum Subarray[LINK](https://leetcode.com/problems/maximum-subarray/description/)
+## 4. Maximum Subarray: [LINK](https://leetcode.com/problems/maximum-subarray/description/)
 Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 Example 1:
