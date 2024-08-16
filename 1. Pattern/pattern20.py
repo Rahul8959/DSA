@@ -30,7 +30,7 @@
 
 n=4
 tmp=(2*n-2)
-for i in range(1,(2*n-1)+1):
+for i in range(1,(2*n)):
     star = i
     if(i>n): star=(2*n)-i
 
