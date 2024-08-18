@@ -9,7 +9,7 @@ Output: 5
 
 Explanation: From the array {1, 2, 3, 4, 5}, the largest element is 5.
 
-## 2. Second Largest Number [LINK] (https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse)
+## 2. Second Largest Number [LINK](https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse)
 
 You have been given an array ‘a’ of ‘n’ unique non-negative integers.
 Find the second largest and second smallest element from the array.
@@ -52,7 +52,7 @@ The new array will be [1 2 3].
 
 So our answer is 3.
 
-## 5. Left Rotate an Array by One [LINK] (https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse)
+## 5. Left Rotate an Array by One [LINK](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse)
 
 Given an array 'arr' containing 'n' elements, rotate this array left once and return it.
 
@@ -65,7 +65,7 @@ Output: [2, 3, 4, 5, 1]
 
 Explanation: We moved the 2nd element to the 1st position, and 3rd element to the 2nd position, and 4th element to the 3rd position, and the 5th element to the 4th position, and move the 1st element to the 5th position.
 
-## 6. Rotate Array By D place [LINK] (https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
+## 6. Rotate Array By D place [LINK](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
 Given an unsorted array arr[] of size n. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer. 
 
 Note: Consider the array as circular.
@@ -76,7 +76,7 @@ Input: n = 5, d = 2 arr[] = {1,2,3,4,5}
 Output: 3 4 5 1 2
 Explanation: 1 2 3 4 5  when rotated by 2 elements, it becomes 3 4 5 1 2.
 
-## 7. Right rotate array by d place [LINK]
+## 7. Right rotate array by d place [LINK](https://leetcode.com/problems/rotate-array/description/)
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 
 Example 1:
