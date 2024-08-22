@@ -116,3 +116,14 @@ The positive integers in nums are [3,1,2]. The negative integers are [-2,-5,-4].
 The only possible way to rearrange them such that they satisfy all conditions is [3,-2,1,-5,2,-4].
 
 Other ways such as [1,-2,2,-5,3,-4], [3,1,2,-2,-5,-4], [-2,3,-5,1,-4,2] are incorrect because they do not satisfy one or more conditions.  
+
+## 7. Array Leader [LINK](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.
+
+Examples
+
+Input: n = 6, arr[] = {16,17,4,3,5,2}
+
+Output: 17 5 2
+
+Explanation: Note that there is nothing greater on the right side of 17, 5 and, 2.
