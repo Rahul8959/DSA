@@ -11,6 +11,7 @@
 #                 break
 #         if leader:
 #             ans.append(a[i])
+#     ans.reverse()
 #     return ans
 
 #optimized
@@ -22,7 +23,7 @@ def superiorElements(a):
         if(ans[len(ans)-1]<a[i]):
             ans.append(a[i])
 
-    ans.sort()
+    ans.reverse()
     return ans
 
 x = input("Enter array values: ")
