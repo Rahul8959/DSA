@@ -117,7 +117,7 @@ The only possible way to rearrange them such that they satisfy all conditions is
 
 Other ways such as [1,-2,2,-5,3,-4], [3,1,2,-2,-5,-4], [-2,3,-5,1,-4,2] are incorrect because they do not satisfy one or more conditions.  
 
-## 7. Array Leader [LINK](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+## 7. Array Leader: [LINK](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.
 
 Examples
@@ -127,3 +127,28 @@ Input: n = 6, arr[] = {16,17,4,3,5,2}
 Output: 17 5 2
 
 Explanation: Note that there is nothing greater on the right side of 17, 5 and, 2.
+
+## 8. Longest Successive Elements: [LINK](https://www.naukri.com/code360/problems/longest-successive-elements_6811740)
+There is an integer array ‘A’ of size ‘N’.
+A sequence is successive when the adjacent elements of the sequence have a difference of 1.
+
+You must return the length of the longest successive sequence.
+
+Note:
+
+You can reorder the array to form a sequence. 
+For example,
+
+Input:
+
+A = [5, 8, 3, 2, 1, 4], N = 6
+
+Output:
+
+5
+
+Explanation: 
+
+The resultant sequence can be 1, 2, 3, 4, 5.    
+
+The length of the sequence is 5.
