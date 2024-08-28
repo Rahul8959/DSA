@@ -152,3 +152,18 @@ Explanation:
 The resultant sequence can be 1, 2, 3, 4, 5.    
 
 The length of the sequence is 5.
+
+## 9. Set Metrics Zero [LINK](https://leetcode.com/problems/set-matrix-zeroes/description/)
+You are given a matrix 'MATRIX' of dimension 'N' x 'M'. Your task is to make all the elements of row 'i' and column 'j' equal to 0 if any element in the ith row or jth column of the matrix is 0.
+
+Note:
+
+The number of rows should be at least 1.
+
+The number of columns should be at least 1.
+
+For example, refer to the below matrix illustration: 
+
+1 1 1      1 0 1
+1 0 1  =>  0 0 0
+1 1 1      1 0 1
